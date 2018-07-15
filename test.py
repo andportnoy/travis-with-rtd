@@ -18,6 +18,7 @@ def func(arg1, arg2):
     -----
 
     This function simply returns its only argument and serves as an example.
+    Now we add another line here to test RTD webhook.
         
     """
 
